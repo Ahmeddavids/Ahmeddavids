@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3  # Updated to the latest version
 
       - name: Create dist directory
@@ -19,18 +19,18 @@ jobs:
         uses: Platane/snk@v3.2.0
         with:
           github_user_name: ahmeddavids
-          outputs: dist/github-contribution-grid-snake.svg  # Corrected output path
+          outputs: dist/github-contribution-grid-snake.svg  # Output path to ensure file goes to the correct directory
 
       - name: List files in the working directory
-        run: ls -R
+        run: ls -R  # This checks if any file was generated and where
 
       - name: List files in the dist directory
-        run: ls -R dist
+        run: ls -R dist  # This specifically checks if the dist directory contains the SVG
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3  # Updated to the latest version
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: dist  # Ensure this matches where the SVG is placed
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
