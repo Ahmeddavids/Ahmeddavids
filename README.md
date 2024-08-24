@@ -36,5 +36,5 @@ I am a passionate **Back-end Developer** with experience in building scalable ap
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/ahmeddavids](https://www.linkedin.com/in/ahmed-isiaka/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmed-isiaka/)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat-square&logo=twitter)](https://twitter.com/ahmeddavids)
