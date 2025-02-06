@@ -28,7 +28,7 @@ I am a passionate **Back-end Developer** with experience in building scalable ap
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmeddavids&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmeddavids&theme=dark&hide_border=true)
 
 ## 📈 Contribution Graph
 
