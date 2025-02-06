@@ -10,7 +10,7 @@ I am a passionate **Back-end Developer** with experience in building scalable ap
 - 🌍 **JavaScript Enthusiast**
 - 🚀 **Node.js and Express.js Developer**
 - 📦 **Database Expertise with MongoDB and MySQL**
-- ⚙️ **ORM Experience with TypeORM**
+- ⚙️ **ORM Experience with TypeORM & Sequelize**
 
 ## 🛠️ Skills
 
@@ -18,6 +18,7 @@ I am a passionate **Back-end Developer** with experience in building scalable ap
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white&style=flat-square)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FF4F64?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAB3J5NpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIklEQVQoz2NkYGBg2I7mEQI8xAdGCQgzVoNRWzKw4RMAAAEtQBwsyfjUAAAAASUVORK5CYII=&style=flat-square)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
@@ -29,7 +30,6 @@ I am a passionate **Back-end Developer** with experience in building scalable ap
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ahmeddavids&theme=dark)
-
 
 ## 📈 Contribution Graph
 
